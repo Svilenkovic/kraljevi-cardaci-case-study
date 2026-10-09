@@ -4,7 +4,7 @@
 
 One page in Serbian and English for an apartment that is for sale and for rent at once, in the Kraljevi Čardaci spa complex on Kopaonik.
 
-**[kraljevicardaci.svilenkovic.rs](https://kraljevicardaci.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/kraljevi-cardaci) · [Srpski](README.sr.md)
+**[kraljevicardaci.svilenkovic.rs](https://kraljevicardaci.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/kraljevi-cardaci) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -38,9 +38,9 @@ Price, availability and legal status change, so the page does not publish them a
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
 | Mobile | 99 | 100 | 100 | 100 |
-| Desktop | 96 | 100 | 100 | 100 |
+| Desktop | 99 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `Apartment`, `FAQPage`, `Person`, `Resort`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `Apartment`, `FAQPage`, `Person`, `Resort`.
 
 ## Screenshots
 
