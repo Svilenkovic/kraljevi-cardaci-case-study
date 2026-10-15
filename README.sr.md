@@ -37,8 +37,8 @@ Cena, raspoloživost i pravni status se menjaju, pa ih strana ne objavljuje i to
 
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Telefon | 99 | 100 | 100 | 100 |
-| Desktop | 99 | 100 | 100 | 100 |
+| Telefon | 98 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Apartment`, `FAQPage`, `Person`, `Resort`.
 
